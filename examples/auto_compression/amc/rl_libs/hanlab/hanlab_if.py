@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-from examples.auto_compression.amc.rl_libs.hanlab.agent import DDPG, train
+from .agent import DDPG, train
 import logging
 
 
